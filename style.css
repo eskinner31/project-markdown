@@ -1,0 +1,11 @@
+*, *:before, *:after {
+box-sizing: border-box;
+}
+
+
+textarea, section{
+padding: 20px;
+width: 50%;
+float:left;
+height: 500px;
+}
